@@ -1,0 +1,20 @@
+{
+	"type":"Asian",
+	"restaurants":
+	[
+		{"name":"Bao Bao Bao"},
+		{"name":"A Wok on the Wild Side"},
+		{"name":"Pho Shizzle"},
+		{"name":"Wok This Way"},
+		{"name":"Chop Stix"},
+		{"name":"What Pho"},
+		{"name":"Hong Kee House"},
+		{"name":"Blowfish - Sushi to Die For"},
+		{"name":"One Fish Two Fish"},
+		{"name":"Fuki Sushi"},
+		{"name":"Thai One On"},
+		{"name":"Mushi Sushi"},
+		{"name":"Once Undon a Time"},
+		{"name":"Pho Sure"}
+	]
+}
